@@ -1,0 +1,23 @@
+{
+  "name": "not-prerelease",
+  "version": "0.0.0",
+  "description": "Detect if the current package version, or the passed version is a prerelease",
+  "bin": {
+    "not-prerelease": "not-prerelease.js",
+    "is-prerelease": "is-prerelease.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonocasey/not-prerelease"
+  },
+  "author": "Brandon Casey <brandonocasey@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "semver": "^5.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonocasey/not-prerelease/issues"
+  },
+  "homepage": "https://github.com/brandonocasey/not-prerelease"
+}
