@@ -1,6 +1,6 @@
 {
   "name": "not-prerelease",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect if the current package version, or the passed version is a prerelease",
   "bin": {
     "not-prerelease": "not-prerelease.js",
