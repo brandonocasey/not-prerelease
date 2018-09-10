@@ -1,8 +1,22 @@
 # not-prerelease
 
+[![Build Status](https://travis-ci.org/brandonocasey/not-prerelease.svg?branch=master)](https://travis-ci.org/brandonocasey/not-prerelease)
+[![Greenkeeper badge](https://badges.greenkeeper.io/brandonocasey/not-prerelease.svg)](https://greenkeeper.io/)
+
+[![NPM](https://nodei.co/npm/not-prerelease.png?downloads=true&downloadRank=true)](https://nodei.co/npm/not-prerelease/)
+
 Detect if the current `npm version` call is a `prerelease` or not. That way the version
 lifecycle script can do things selectively in actual releases vs prereleases, such as
 update a changelog with [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installation](#installation)
+- [Other information](#other-information)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Installation
 
