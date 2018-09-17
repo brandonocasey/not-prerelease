@@ -21,7 +21,8 @@
     "test": "npm run lint",
     "preversion": "npm test",
     "version": "./is-prerelease.js || npm run update-changelog && git add CHANGELOG.md",
-    "update-changelog": "conventional-changelog -p videojs -i CHANGELOG.md -s"
+    "update-changelog": "conventional-changelog -p videojs -i CHANGELOG.md -s",
+    "prepublishOnly": "vjsverify --skip-es-check"
   },
   "lint-staged": {
     "*.js": [
@@ -40,7 +41,8 @@
     "husky": "^1.0.0-rc.13",
     "lint-staged": "^7.2.2",
     "npm-merge-driver-install": "^1.0.0",
-    "videojs-standard": "^7.0.1"
+    "videojs-standard": "^7.1.0",
+    "videojs-generator-verify": "~1.0.4"
   },
   "husky": {
     "hooks": {
