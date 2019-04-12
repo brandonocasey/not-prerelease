@@ -1,7 +1,7 @@
 # not-prerelease
 
-[![Build Status](https://travis-ci.org/brandonocasey/not-prerelease.svg?branch=master)](https://travis-ci.org/brandonocasey/not-prerelease)
-[![Greenkeeper badge](https://badges.greenkeeper.io/brandonocasey/not-prerelease.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/BrandonOCasey/not-prerelease.svg?branch=master)](https://travis-ci.org/BrandonOCasey/not-prerelease)
+[![Greenkeeper badge](https://badges.greenkeeper.io/BrandonOCasey/not-prerelease.svg)](https://greenkeeper.io/)
 
 [![NPM](https://nodei.co/npm/not-prerelease.png?downloads=true&downloadRank=true)](https://nodei.co/npm/not-prerelease/)
 
