@@ -17,7 +17,7 @@
   "author": "Brandon Casey <brandonocasey@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "semver": "^6.0.0"
+    "semver": "^7.1.2"
   },
   "scripts": {
     "lint": "vjsstandard",
